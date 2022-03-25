@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+************************UNDER CONSTRUCTION!*******************************
 
 I am a Professor of Psychological Sciences at the University of Connecticut in the [Department of Psychological Sciences](https://psych.uconn.edu/). In the SEE Lab (https://seelab.socialpsych.uconn.edu/), we investigate social-environmental interations.
 
